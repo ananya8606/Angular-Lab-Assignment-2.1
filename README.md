@@ -1,5 +1,9 @@
 # LabAssignmentAngular21
 
+
+https://user-images.githubusercontent.com/52853286/187016762-cf9f89c5-a887-4868-8d29-bcbb56e15336.mp4
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
 
 ## Development server
